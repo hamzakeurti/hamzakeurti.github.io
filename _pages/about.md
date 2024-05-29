@@ -15,6 +15,8 @@ My research lies at the intersection of Machine Learning, Geometry and Compositi
 
 News
 ====
+**[2024-05]** I am at [GITEX Africa](https://gitexafrica.com/) to share a panel on Machine Learning and Data Science Opportunities.
+
 **[2024-02]** I am at the [UM6P Week of Science](https://wos.um6p.ma/) to give a talk on Perception Learning from Action.
 
 **[2023-05]** Our work on the [Homomorphism AutoEncoder](https://arxiv.org/abs/2207.12067) has been accepted at the [ICML 2023](https://icml.cc/Conferences/2023) conference.
