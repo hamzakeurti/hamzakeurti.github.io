@@ -14,7 +14,8 @@ My research lies at the intersection of Machine Learning, Geometry and Compositi
 
 
 News
-======
+====
+**[2024-02]** I am at the [UM6P Week of Science](https://wos.um6p.ma/) to give a talk on Perception Learning from Action.
 
 **[2023-05]** Our work on the [Homomorphism AutoEncoder](https://arxiv.org/abs/2207.12067) has been accepted at the [ICML 2023](https://icml.cc/Conferences/2023) conference.
 
@@ -22,8 +23,8 @@ News
 
 **[2022-08]** We are presenting (Poster) the [Homomorphism AutoEncoder](https://arxiv.org/abs/2207.12067) at the [UAI 2022 CRL Workshop](https://crl-uai-2022.github.io/). 
 
-**[2021-12-14]** We are presenting our work (Oral) on [Uncertainty Estimation under Model Misspecification](https://arxiv.org/abs/2111.11763) at the [NeurIPS 2021 Workshop ``Your Model is Wrong''](https://sites.google.com/view/robustbayes-neurips21/home).
+**[2021-12]** We are presenting our work (Oral) on [Uncertainty Estimation under Model Misspecification](https://arxiv.org/abs/2111.11763) at the [NeurIPS 2021 Workshop ``Your Model is Wrong''](https://sites.google.com/view/robustbayes-neurips21/home).
 
-**[2021-10-01]** Starting my visit at the [MPI for Intelligent Systems](https://is.mpg.de/) in Tübingen, Germany.
+**[2021-10]** Starting my visit at the [MPI for Intelligent Systems](https://is.mpg.de/) in Tübingen, Germany.
 
-**[2020-09-01]** I am starting my PhD at the ETH Zürich and the Max Planck Institute for Intelligent Systems, funded by the Max Planck ETH Center For Learning Systems.
+**[2020-09]** I am starting my PhD at the ETH Zürich and the Max Planck Institute for Intelligent Systems, funded by the Max Planck ETH Center For Learning Systems.
