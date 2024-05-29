@@ -7,19 +7,28 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Machine Learning, ETH Zürich, 2024 (expected)
+* M.Sc in Advance Computing, Tsinghua University, 2020
+* Diplome d'Ingénieur, Centrale Paris, Promo 2018
+* CPGE Maths Physics (MPSI/MP*) at [Lycée Mohamed V](https://www.lyceemohamedv.ma/) then [Lycée Moulay Youssef](https://www.lyceemoulayyoussef.ma/), 2013-2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Jan 2018 - Aug 2018: Software Engineering Intern
+  * Schlumberger (SLB) HTC, Houston, USA
+  * Worked on an optimization heuristic for large scale production networks.
+  * [patented](https://patents.google.com/patent/US11972176B2/en).
+  * C++, Python, Stateless API.
+
+* Jul 2017 - Dec 2017: Software Engineering Intern
+  * Schlumberger (SLB) AbTC, Oxfordshire, UK
+  * Worked on the integration of the PipeSim simulator with IXFM.
+  * C++, Stateless API.
+<!-- * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
