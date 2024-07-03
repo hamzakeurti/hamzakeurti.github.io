@@ -9,6 +9,8 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
+Download my [CV](https://hamzakeurti.github.io/files/cv.pdf).
+
 Education
 ======
 * Ph.D in Machine Learning, ETH Zürich, 2024 (expected)
