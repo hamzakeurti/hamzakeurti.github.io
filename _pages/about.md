@@ -15,6 +15,10 @@ My research lies at the intersection of Machine Learning, Geometry and Compositi
 
 News
 ====
+**[2024-07]** I will be at ICML 2024 to present our work on [Stitching Manifolds](https://openreview.net/forum?id=roehAtQlGX) at the [ICML 2024 GRaM Workshop](https://gram-workshop.github.io/cfp.html).
+
+**[2024-06]** Our work on [Stitching Manifolds](https://openreview.net/forum?id=roehAtQlGX) has been accepted at the [ICML 2024 GRaM Workshop](https://gram-workshop.github.io/cfp.html).
+
 **[2024-05]** I am at [GITEX Africa](https://gitexafrica.com/) to share a panel on Machine Learning and Data Science Opportunities.
 
 **[2024-02]** I am at the [UM6P Week of Science](https://wos.um6p.ma/) to give a talk on Perception Learning from Action.
