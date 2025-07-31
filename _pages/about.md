@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-I am a PhD student at the ETH Zürich and the Max Planck Institute for Intelligent Systems. I am co-advised by [Benjamin Grewe](https://ee.ethz.ch/the-department/people-a-z/person-detail.MTQ4NjY0.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html) and [Bernhard Schölkopf](https://is.mpg.de/~bs). I hold a PhD fellowship at the [Max Planck ETH Center For Learning Systems](https://learning-systems.org/). Prior my PhD, I obtained a Diplome d'Ingénieur (~MEng) at [Centrale Paris](https://www.centralesupelec.fr/) with a double degree (MSc) in Advanced Computing at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I worked as a software engineering intern at [SLB](https://www.slb.com/).
+I am an Assistant Professor of Machine Learning at [UM6P College Of Computing](https://cc.um6p.ma/). Before joining, 
+I was a PhD student at the ETH Zürich and the Max Planck Institute for Intelligent Systems. I am co-advised by [Benjamin Grewe](https://ee.ethz.ch/the-department/people-a-z/person-detail.MTQ4NjY0.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html) and [Bernhard Schölkopf](https://is.mpg.de/~bs). I held a PhD fellowship at the [Max Planck ETH Center For Learning Systems](https://learning-systems.org/). Prior my PhD, I obtained a Diplome d'Ingénieur (~MEng) at [Centrale Paris](https://www.centralesupelec.fr/) with a double degree (MSc) in Advanced Computing at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I worked as a software engineering intern at [SLB](https://www.slb.com/).
 
 My research lies at the intersection of Machine Learning, Geometry and Compositionality. I am interested in learning ``good'' representations of data which recover the compositional structure of the world. I leverage the interactions of an agent with its environment to learn such representations. In general, I am interested in avoiding the misspecification of models and representation structure in machine learning.
 
