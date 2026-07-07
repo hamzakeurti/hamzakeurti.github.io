@@ -21,7 +21,7 @@ I am recruiting PhD students. If you are interested in any of the topics below, 
 - [Algebraic Structure Considerations in Representation Learning](https://docs.google.com/forms/d/e/1FAIpQLSeZpGjXYfZJasqgJR0D9gqJNexZvCd3Aq2X0R1zyRVdvFK4ZA/viewform)
 - [Algebraic Structure Considerations in the Learning of Dynamical Systems Representations](https://docs.google.com/forms/d/e/1FAIpQLSc9Q5RZBgCvnEy4ejKM5m-iAcrEzU5xUGBpsXIkfzhQcWodIQ/viewform)
 - [Structured Representation Learning for and from Reinforcement Learning](https://docs.google.com/forms/d/e/1FAIpQLSfsCDCYQC2AnvzeY7hNy4r4acBhg3dYhMMCp81QjoEfzfxDmA/viewform)
-- [Machine learning models for improved car audio NVH performance assessment](https://docs.google.com/forms/d/e/1FAIpQLSfgjXduXP6hOx_RzZxAitDeW1KItivJyOYReDm6d6Q434hnpw/viewform)
+- [Machine learning models for improved car audio NVH performance assessment](https://docs.google.com/forms/d/e/1FAIpQLSfgjXduXP6hOx_RzZxAitDeW1KItivJyOYReDm6d6Q434hnpw/viewform) — joint with Stellantis and INSA Lyon
 
 
 News
