@@ -14,8 +14,20 @@ I completed my PhD at the ETH Zürich and the Max Planck Institute for Intellige
 My research lies at the intersection of Machine Learning, Algebra and Cognitive Psychology. I am interested in learning ``good'' representations of data which recover the compositional structure of the world. I leverage the interactions of an agent with its environment to learn such representations. In general, I am interested in avoiding the misspecification of models and representation structure in machine learning.
 
 
+Open PhD Positions
+====
+I am recruiting PhD students. If you are interested in any of the topics below, apply through the linked form:
+
+- [Algebraic Structure Considerations in Representation Learning](https://docs.google.com/forms/d/e/1FAIpQLSeZpGjXYfZJasqgJR0D9gqJNexZvCd3Aq2X0R1zyRVdvFK4ZA/viewform)
+- [Algebraic Structure Considerations in the Learning of Dynamical Systems Representations](https://docs.google.com/forms/d/e/1FAIpQLSc9Q5RZBgCvnEy4ejKM5m-iAcrEzU5xUGBpsXIkfzhQcWodIQ/viewform)
+- [Structured Representation Learning for and from Reinforcement Learning](https://docs.google.com/forms/d/e/1FAIpQLSfsCDCYQC2AnvzeY7hNy4r4acBhg3dYhMMCp81QjoEfzfxDmA/viewform)
+- [Machine learning models for improved car audio NVH performance assessment](https://docs.google.com/forms/d/e/1FAIpQLSfgjXduXP6hOx_RzZxAitDeW1KItivJyOYReDm6d6Q434hnpw/viewform)
+
+
 News
 ====
+**[2026-07]** I am recruiting PhD students — see [open positions](/#open-phd-positions) above.
+
 **[2024-07]** I will be at ICML 2024 to present our work on [Stitching Manifolds](https://openreview.net/forum?id=roehAtQlGX) at the [ICML 2024 GRaM Workshop](https://gram-workshop.github.io/cfp.html).
 
 **[2024-06]** Our work on [Stitching Manifolds](https://openreview.net/forum?id=roehAtQlGX) has been accepted at the [ICML 2024 GRaM Workshop](https://gram-workshop.github.io/cfp.html).
